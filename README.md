@@ -58,7 +58,7 @@ EMAIL: <ZachKrause@live.com>
 https://github.com/ZacharyWK/Note-Taker-ZK
 ```
 
-[DEPLOYED](https://zacharywk.github.io/Note-Taker-ZK/)
+[DEPLOYED](https://note-taker-zk.herokuapp.com/)
 ```
-https://zacharywk.github.io/Note-Taker-ZK/
+https://note-taker-zk.herokuapp.com/
 ```
