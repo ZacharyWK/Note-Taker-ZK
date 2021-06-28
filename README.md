@@ -17,7 +17,7 @@
 Tasked to implement functionality in provided source code to allow user make, save, and delete notes.
 
 ## Design
-![image](./img/image1.png)
+![image](./img/image.png)
 
 The Layout and UI remains unchanged from provided source code.
 
