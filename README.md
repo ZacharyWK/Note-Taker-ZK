@@ -47,7 +47,6 @@ Navigate the sight enter text and press save, notes can be deleted. If server is
 ### You can contact me at:
 
     GITHUB: <https://github.com/ZacharyWK>
-    
 
     EMAIL: <ZachKrause@live.com>
 
